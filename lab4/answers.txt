@@ -1,0 +1,48 @@
+
+Student 1: Rawan Mostafa Mahmoud
+Student 2: Fatma Ebrahim Sobhy
+
+Q1:
+
+Number or words in the given subset
+Word embeddings is a dictionary, having 243 key-value pair, which represents the number of words or number  
+
+
+Q2:
+
+Dimension of the embedding vector for each word
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes, because it's 0.76 meaning it's close to 1, meaning the word Egypt is the most close embedding to Athens - Greece + Cairo 
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The words in same category or of same meaning have close embeddings, for example:
+1- oil, gas, petroleum have close angles between their vectors
+2- happy, sad, joyful have close angles between their vectors
+3- city, town, village have close angles between their vectors
+4- country, continent have close angles between their vectors
+also group 3 and 4 are close to each other since they have close meanings(both are about places)
+
